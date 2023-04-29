@@ -588,6 +588,9 @@ a.footnote:hover,
 
 /* dark */
 @media screen and (prefers-color-scheme: dark) {
+	.sourceSpotlight {
+		border-color: #727272;
+	}
 	.newsfoot-footnote-popover {
 		background: #444;
 		color: rgb(224, 224, 224);
