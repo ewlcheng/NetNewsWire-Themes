@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Name</key>
-	<string>Modern Tinted Header</string>
+	<string>Source Spotlight</string>
 	<key>ThemeIdentifier</key>
-	<string>com.edwardcheng.themes.moderntintedheader</string>
+	<string>com.edwardcheng.themes.sourcespotlight</string>
 	<key>CreatorHomePage</key>
 	<string>https://github.com/ewlcheng</string>
 	<key>CreatorName</key>

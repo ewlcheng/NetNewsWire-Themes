@@ -25,6 +25,10 @@ body {
 	align-items: flex-start;
 }
 
+.feedHeader .avatar {
+	display: none;
+}
+
 .feedHeader img {
 	display: block;
 }
