@@ -1,4 +1,5 @@
 # NetNewsWire-Themes
+[Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ewlcheng/NetNewsWire-Themes) from [DownGit](https://github.com/MinhasKamal/DownGit)
 
 ## Modern Theme
 <img width="50%" alt="Mac screenshot of Modern theme" src="https://user-images.githubusercontent.com/25830486/235288722-6d94f576-c288-411f-9da9-f4a1f9e129c0.png">
