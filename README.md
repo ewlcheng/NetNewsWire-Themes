@@ -2,10 +2,11 @@
 [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ewlcheng/NetNewsWire-Themes) from [DownGit](https://github.com/MinhasKamal/DownGit)
 
 ## Modern Theme
-<img width="50%" alt="Mac screenshot of Modern theme" src="https://user-images.githubusercontent.com/25830486/235317089-98a5a91b-9317-428c-8485-cab1df806167.png">
+<img width="50%" alt="Mac screenshot of Modern theme" src="https://user-images.githubusercontent.com/25830486/235332701-a2ceba72-4fc6-4da5-a454-49d30672c5c8.png">
 
 ## Modern Tinted Header Theme
-<img width="50%" alt="Mac screenshot of Modern Tinted Header theme" src="https://user-images.githubusercontent.com/25830486/235317125-d8a0b78d-62d1-438e-a2e3-ddfad8715169.png">
+<img width="50%" alt="Mac screenshot of Modern Tinted Header theme" src="https://user-images.githubusercontent.com/25830486/235332705-e60d891c-e9bf-462d-8182-127c5b5f53c9.png">
 
 ## Source Spotlight Theme
-<img width="50%" alt="Mac screenshot of Source Spotlight theme" src="https://user-images.githubusercontent.com/25830486/235317152-0f7aeae8-a00f-4e96-81f1-7affaab8c98a.png">
+<img width="50%" alt="Mac screenshot of Source Spotlight theme" src="https://user-images.githubusercontent.com/25830486/235332709-c65cad9b-82ee-4e12-bdaf-2c25ee6d23a6.png">
+
