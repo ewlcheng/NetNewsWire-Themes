@@ -200,7 +200,7 @@ body > .systemMessage {
 	line-height: 1.6em;
 }
 
-.articleBody h1, .articleBody h2, .articleBody h3, .articleBody h4, .articleBody h5, .articleBody h6 {
+.articleBody h1, .articleBody h2, .articleBody h3, .articleBody h4, .articleBody h5, .articleBody h6, .articleBody a {
 	font-weight: 500
 }
 
