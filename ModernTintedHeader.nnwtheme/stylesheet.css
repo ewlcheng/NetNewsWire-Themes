@@ -354,7 +354,7 @@ hr {
 		  margin: 1.5em 0;
 		  padding: 1rem;
 		  color: color(srgb 0.383 0.383 0.383);
-		  font-size: 0.95rem;
+		  font-size: 0.95em;
 	  }
 	  
 	  pre {
@@ -375,7 +375,7 @@ hr {
 	  margin: 1.5em 0;
 	  padding: 1em;
 	  color: rgba(195, 195, 195, 1);
-	  font-size: 0.95rem;
+	  font-size: 0.95em;
   }
   
   pre {
